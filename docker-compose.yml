@@ -3,5 +3,5 @@ services:
   web: 
     build: .
     ports: 
-        - "1000:80"
+        - "1001:80"
 
